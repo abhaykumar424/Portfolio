@@ -37,12 +37,12 @@ function Contacts() {
                 LinkedIn
               </div>
             </a>
-            <a href=" https://github.com/leanwithkumar" target="_blank">
+            <a href=" https://github.com/abhaykumar424" target="_blank">
               <div className="px-5 py-2 min-w-[120px] text-center rounded-xl text-white bg-[#071952] border border-white-1 transform transition duration-300 hover:scale-95 cursor-pointer">
                 Github
               </div>
             </a>
-            <a href="https://x.com/leanwithkumar" target="_blank">
+            <a href="https://x.com/abhaykumar424" target="_blank">
               <div className="px-5 py-2 min-w-[120px] text-center rounded-xl text-white bg-black border border-white-1 transform transition duration-300 hover:scale-95 cursor-pointer">
                 Twitter
               </div>
@@ -53,32 +53,17 @@ function Contacts() {
               Discord
             </div>
 
-            <a
-              href="https://codeforces.com/profile/leanwithkumar"
-              target="_blank"
-            >
-              <div className="px-5 py-2 min-w-[120px] text-center rounded-xl text-white bg-[#3338A0] border border-white-1 transform transition duration-300 hover:scale-95 cursor-pointer">
-                Codeforces
-              </div>
-            </a>
 
-            <a href="https://leetcode.com/u/leanwithkumar/" target="_blank">
+            <a href="https://leetcode.com/u/abhaykumar424/" target="_blank">
               <div className="px-5 py-2 min-w-[120px] text-center rounded-xl text-white bg-[#FFD93D] border border-white-1 transform transition duration-300 hover:scale-95 cursor-pointer">
                 LeetCode
               </div>
             </a>
 
-            <a
-              href="https://www.geeksforgeeks.org/user/mrhust45el/"
-              target="_blank"
-            >
-              <div className="px-5 py-2 min-w-[120px] text-center rounded-xl text-white bg-[#08CB00] border border-white-1 transform transition duration-300 hover:scale-95 cursor-pointer">
-                GeeksforGeeks
-              </div>
-            </a>
+        
 
             <a
-              href="mailto:mrhustle936@gmail.com"
+              href="mailto:abhaykumar40204@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -87,7 +72,7 @@ function Contacts() {
               </div>
             </a>
 
-            <a href="https://www.instagram.com/leanwithkumar/" target="_blank">
+            <a href="https://www.instagram.com/abhaykumar_492/" target="_blank">
               <div className="px-5 py-2 min-w-[120px] text-center rounded-xl text-white bg-[#E73879] border border-white-1 transform transition duration-300 hover:scale-95 cursor-pointer">
                 Instagram
               </div>

@@ -24,7 +24,7 @@ function Slider() {
                 className="h-8 w-8"
               />
             </div>
-            <div className="px-2">@leanwithkumar</div>
+            <div className="px-2"></div>
           </div>
 
           <div className="py-2">

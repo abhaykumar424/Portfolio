@@ -20,6 +20,27 @@ function Dashboard() {
 
           <section className="pt-5">
             <div className="grid grid-cols-1 gap-6 py-6 sm:grid-cols-2">
+
+
+              <Dashboardcards
+                image="https://res.cloudinary.com/djv80zjt7/image/upload/v1755999897/ssharmaaaa_wy2zvl.jpg"
+                title="Aryan Sharma"
+                hashtags={["SDE1 @ OpenFX"]}
+                description="Met him in first year, and saw him grow into a focused builder. His curiosity and drive toward building solutions are outstanding."
+                link="https://www.linkedin.com/in/aryan-sharma-534a23219/"
+                height="h-100"
+              />
+
+              <Dashboardcards
+                image="https://res.cloudinary.com/djv80zjt7/image/upload/v1755999727/mohitsirmentor_ravtol.png"
+                title="Mohit Pandey"
+                hashtags={["SDE 1 @ Global Logic"]}
+                description="Doesn't just solve — understands deeply. Calm, focused, and sharp with problem-solving. Truly inspiring to watch him grow."
+                link="https://www.linkedin.com/in/mohit-pandey-5b0756197/"
+                height="h-100"
+              />
+
+
               <Dashboardcards
                 image="https://res.cloudinary.com/djv80zjt7/image/upload/v1755999402/sambro_vd1tq6.jpg"
                 title="Samarth Pandey"
@@ -38,23 +59,9 @@ function Dashboard() {
                 height="h-100"
               />
 
-              <Dashboardcards
-                image="https://res.cloudinary.com/djv80zjt7/image/upload/v1755999727/mohitsirmentor_ravtol.png"
-                title="Mohit Pandey"
-                hashtags={["SDE 1 @ Global Logic"]}
-                description="Doesn't just solve — understands deeply. Calm, focused, and sharp with problem-solving. Truly inspiring to watch him grow."
-                link="https://www.linkedin.com/in/mohit-pandey-5b0756197/"
-                height="h-100"
-              />
+              
 
-              <Dashboardcards
-                image="https://res.cloudinary.com/djv80zjt7/image/upload/v1755999897/ssharmaaaa_wy2zvl.jpg"
-                title="Aryan Sharma"
-                hashtags={["Fullstack Web Developer"]}
-                description="Met him in first year, and saw him grow into a focused builder. His curiosity and drive toward building solutions are outstanding."
-                link="https://www.linkedin.com/in/aryan-sharma-534a23219/"
-                height="h-100"
-              />
+              
             </div>
           </section>
 
